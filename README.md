@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📫 How to reach me: yoooeunj@gmail.com
-🌱 study on : [Velog](https://velog.io/@haremeat)
+- 📫 How to reach me: yoooeunj@gmail.com
+- 🌱 study on : [Velog](https://velog.io/@haremeat)
