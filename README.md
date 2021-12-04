@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: yoooeunj@gmail.com
 - 🌱 study on : [Velog](https://velog.io/@haremeat)
 
-### Tech 
+### Tech :telescope:
 ![](https://img.shields.io/badge/php-777BB4?style=flat-square&logo=PHP&logoColor=white)
 ![](https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=MySql&logoColor=white)
 
