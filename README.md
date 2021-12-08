@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 📫 How to reach me: yoooeunj@gmail.com
-- 🌱 study on : [Velog](https://velog.io/@haremeat)
+📫 How to reach me: yoooeunj@gmail.com
+🌱 study on : [Velog](https://velog.io/@haremeat)
 
 ### Tech :telescope:
 ![](https://img.shields.io/badge/php-777BB4?style=flat-square&logo=PHP&logoColor=white)
